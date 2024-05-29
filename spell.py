@@ -23,7 +23,7 @@ banner = """[blue]
 4. [green]Auto Claim[/green]
 """
 
-console.print(Panel(banner, title="[bold blue]Cell Bot Menu[/bold blue]"))
+console.print(Panel(banner, title="[bold blue]Spell Bot Menu[/bold blue]"))
 
 pilihan = Prompt.ask("Masukan pilihan")
 
